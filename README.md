@@ -8,7 +8,7 @@ Full-Stack Engineer | 3 % | Codecademy
 25/11/2021 ~ now <br />
 Learn Python 3 | 26 % | Codecademy
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunu02&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunu02&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 **Hyunu02/Hyunu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
