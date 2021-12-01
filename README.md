@@ -2,10 +2,10 @@
 
 🌱 Learning
 
-24/11/2021 ~ now
+24/11/2021 ~ now <br />
 Full-Stack Engineer | 3 % | Codecademy
 
-25/11/2021 ~ now
+25/11/2021 ~ now <br />
 Learn Python 3 | 26 % | Codecademy
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunu02&show_icons=true&theme=tokyonight)
