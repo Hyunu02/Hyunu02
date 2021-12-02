@@ -1,6 +1,6 @@
-# 👋 Hi there!
+👋 Hi there!
 
-# 🌱 Learning
+🌱 Learning
 
 24/11/2021 ~ now <br />
 Full-Stack Engineer | 3 % | Codecademy
